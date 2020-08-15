@@ -5,6 +5,6 @@ public class main {
     }
 
     public static int getSum (int firstNumber, int secondNumber) {
-        return firstNumber + secondNumber;
+        return firstNumber - secondNumber;
     }
 }
